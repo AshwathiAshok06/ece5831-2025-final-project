@@ -1,13 +1,13 @@
-# Vehicle Detection and Speed Estimation
+# Vehicle Type and Speed pattern recognition
 
 ## Project Overview
 
 The system performs the following tasks:
-- Detect vehicles from traffic video using background subtraction
-- Track each vehicle across frames using centroid-based tracking
-- Classify vehicles into four types: car, bus, truck, and motorcycle
-- Estimate vehicle speed in miles per hour (mph) based on pixel motion
-- Display results directly on the video and save data for analysis
+1. Detect vehicles from traffic video using background subtraction
+2. Track each vehicle across frames using centroid-based tracking
+3. Classify vehicles into four types: car, bus, truck, and motorcycle
+4. Estimate vehicle speed in miles per hour (mph) based on pixel motion
+5. Display results directly on the video and save data for analysis
 
 The project is developed using Python with OpenCV for computer vision tasks and TensorFlow/Keras for deep learning.
 
