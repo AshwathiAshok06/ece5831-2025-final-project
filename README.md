@@ -40,6 +40,8 @@ Test video link: https://youtube.com/shorts/opPstOQ2KXc?si=xB3mei9KulyE_7vc
 
 Additional motorway and bridge-view traffic videos are also used for evaluation.
 
+## Demo video
+Link: https://youtu.be/enf79AOKATQ
 ## How to Run
 
 1. Open the provided Jupyter Notebook (`.ipynb`) file.
